@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T19:39:52.648Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-main.png",
+      "file_name": "logo-main.png",
+      "description": "Primary company logo for VŠE PRO STAVBY.CZ, likely used in the header or footer. Features a white background, suggesting it might be adapted for various color schemes or overlays.",
+      "suggested_usage": "Use as the main logo in the website header, footer, and potentially on 'about us' pages. Consider optimizing dimensions for web display (e.g., max 200-300px width) and adding appropriate alt text for accessibility.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/content-renovation-tanvald.jpg",
+      "file_name": "content-renovation-tanvald.jpg",
+      "description": "An image depicting a building under renovation or construction, specifically referenced by 'TANVALD2'. It appears to be a large-scale project, possibly a facade or an entire structure.",
+      "suggested_usage": "Use in 'reference' or 'gallery' sections to showcase completed or ongoing projects, specifically for renovation or facade work. Could also be used on a service page related to 'Facády A SANACE' (Facades and Renovation). Add descriptive alt text.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-new-build-family-house.jpg",
+      "file_name": "content-new-build-family-house.jpg",
+      "description": "An image of a residential building, likely a 'rodinný dům' (family house) as indicated by 'RDPO' in the filename. Given the context of the website, it probably represents a new build or a significant reconstruction project.",
+      "suggested_usage": "Use in 'reference' or 'gallery' sections to illustrate completed family house projects. Suitable for 'novostavby na klíč' (turnkey new builds) or 'rekonstrukcemi starších budov' (reconstructions of older buildings) service pages. Ensure proper alt text is maintained or expanded upon.",
+      "size_bytes": 558411
+    }
+  ]
+}
